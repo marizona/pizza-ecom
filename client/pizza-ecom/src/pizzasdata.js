@@ -4,9 +4,9 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 200,
-        medium: 350,
-        large: 400,
+        small: 12,
+        medium: 15,
+        large: 17,
       },
     ],
     category: "nonveg",
@@ -18,9 +18,9 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 200,
-        medium: 350,
-        large: 400,
+        small: 12,
+        medium: 15,
+        large: 17,
       },
     ],
     category: "nonveg",
@@ -33,8 +33,8 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 180,
-        medium: 250,
+        small: 12,
+        medium: 15,
       },
     ],
     category: "veg",
@@ -47,9 +47,9 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 200,
-        medium: 300,
-        large: 420,
+        small: 12,
+        medium: 15,
+        large: 17,
       },
     ],
     category: "veg",
@@ -62,9 +62,9 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 150,
-        medium: 220,
-        large: 300,
+        small: 12,
+        medium: 15,
+        large: 17,
       },
     ],
     category: "veg",
@@ -78,8 +78,8 @@ const pizzas = [
     variants: ["small", "medium", "large"],
     prices: [
       {
-        small: 250,
-        medium: 380,
+        small: 12,
+        medium: 15
       },
     ],
     category: "veg",
