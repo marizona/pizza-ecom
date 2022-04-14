@@ -10,7 +10,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+    image: "https://www.crazymasalafood.com/wp-content/images/golden-1.jpg",
     description: "Pepper Barbecue Chicken I Cheese",
   },
   {
@@ -24,7 +24,7 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+    image: "https://www.crazymasalafood.com/wp-content/images/golden-1.jpg",
     description:
       "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers",
   },
@@ -69,7 +69,7 @@ const pizzas = [
     ],
     category: "veg",
     image:
-      "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza-500x500.jpg",
+      "https://toppng.com/uploads/preview/pizza-png-11553999379orjd1miyt1.png",
     description:
       "The pizza base is made by mixing yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding single layer of cheese over it. It is mouth-watering pizza for cheese lovers.",
   },
@@ -79,11 +79,12 @@ const pizzas = [
     prices: [
       {
         small: 12,
-        medium: 15
+        medium: 15,
       },
     ],
     category: "veg",
-    image: "https://www.crazymasalafood.com/wp-content/images/double-1.jpg",
+    image:
+      "https://toppng.com/uploads/preview/pizza-png-11553999379orjd1miyt1.png",
     description:
       "This is a plain pizza which have cheese on it which is margherita and is delicious because of the loads of cheese. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding double layer of cheese over it",
   },
