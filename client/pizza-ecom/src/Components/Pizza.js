@@ -80,6 +80,8 @@ export default function Pizza({ pizza }) {
           </Button>
         </Modal.Footer>
       </Modal>
+
+      
     </div>
   );
 }

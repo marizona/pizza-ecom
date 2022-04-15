@@ -24,7 +24,8 @@ const pizzas = [
       },
     ],
     category: "nonveg",
-    image: "https://www.crazymasalafood.com/wp-content/images/golden-1.jpg",
+    image:
+      "https://www.pikpng.com/pngl/m/327-3271979_half-a-pizza-transparent-background-clipart.png",
     description:
       "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers",
   },

@@ -6,8 +6,7 @@ import HomeScreen from "./pages/HomeScreen";
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <HomeScreen/>
+      <Navbar /> <HomeScreen />
     </div>
   );
 }
